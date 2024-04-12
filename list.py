@@ -8,3 +8,7 @@ print(list1)
 
 list1.append("nuevo elemento")
 print(list1)
+print(list1[0:2]) 
+print(list1)
+list1.remove("Oscar")
+print(list1)
